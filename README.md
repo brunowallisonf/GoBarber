@@ -5,7 +5,7 @@
 * Cadastro de usuario e prestador de serviço.
 * Criação de agendamentos informando o horario.
 * Visualização dos agendamentos (prestador de servico)
-* Visualizaçõ de agendamentos (Usuario)
+* Visualização de agendamentos (Usuario)
 * Cancelamento de agendamento com email enviado ao prestador de serviço
 
 ###  Tecnologias
@@ -16,6 +16,7 @@
 * Mongoose
 * Nodemailer
 * Youch
+* Sequelize
 
 ## Executando
 
