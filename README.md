@@ -19,6 +19,4 @@
 
 ## Executando
 
-git clone 
-
-yarn dev
+git clone && yarn dev
